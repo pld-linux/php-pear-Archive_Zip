@@ -20,15 +20,15 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This class provides handling of zip files in PHP.
-It supports creating, listing, extracting and adding to zip files.
+This class provides handling of zip files in PHP. It supports
+creating, listing, extracting and adding to zip files.
 
 In PEAR status of this package is: %{_status}.
 
 %description -l pl
-Ta klasa pozwala na obs³ugê plików zip w PHP.
-Wspiera tworzenia, wy¶wietlanie listy plików, wydobywanie oraz dodawanie
-ich do archiwów zip.
+Ta klasa pozwala na obs³ugê plików zip w PHP. Obs³uguje tworzenie,
+wy¶wietlanie listy plików, wydobywanie oraz dodawanie ich do archiwów
+zip.
 
 Ta klasa ma w PEAR status: %{_status}.
 
