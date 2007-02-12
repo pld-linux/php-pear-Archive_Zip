@@ -5,7 +5,7 @@
 %define		_pearname	Archive_Zip
 
 Summary:	%{_pearname} - Zip file management class
-Summary(pl):	%{_pearname} - klasa do zarz±dzania archiwami Zip
+Summary(pl.UTF-8):   %{_pearname} - klasa do zarzÄ…dzania archiwami Zip
 Name:		php-pear-%{_pearname}
 Version:	0.1.1
 Release:	1
@@ -27,9 +27,9 @@ creating, listing, extracting and adding to zip files.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Ta klasa pozwala na obs³ugê plików zip w PHP. Obs³uguje tworzenie,
-wy¶wietlanie listy plików, wydobywanie oraz dodawanie ich do archiwów
+%description -l pl.UTF-8
+Ta klasa pozwala na obsÅ‚ugÄ™ plikÃ³w zip w PHP. ObsÅ‚uguje tworzenie,
+wyÅ›wietlanie listy plikÃ³w, wydobywanie oraz dodawanie ich do archiwÃ³w
 zip.
 
 Ta klasa ma w PEAR status: %{_status}.
