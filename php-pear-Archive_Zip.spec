@@ -5,7 +5,7 @@
 %define		_pearname	Archive_Zip
 
 Summary:	%{_pearname} - Zip file management class
-Summary(pl.UTF-8):   %{_pearname} - klasa do zarządzania archiwami Zip
+Summary(pl.UTF-8):	%{_pearname} - klasa do zarządzania archiwami Zip
 Name:		php-pear-%{_pearname}
 Version:	0.1.1
 Release:	1
