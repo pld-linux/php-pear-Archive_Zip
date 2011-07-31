@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Zip file management class
 Summary(pl.UTF-8):	%{_pearname} - klasa do zarządzania archiwami Zip
 Name:		php-pear-%{_pearname}
-Version:	0.1.1
-Release:	2
+Version:	0.1.2
+Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	4aaf67077f36aca326ecee8160f78b7d
+# Source0-md5:	5d5cb390b8c2aa19af36db50d95ce801
 URL:		http://pear.php.net/package/Archive_Zip/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
